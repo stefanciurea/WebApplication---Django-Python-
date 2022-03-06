@@ -7,6 +7,7 @@ Steps to run the server:
 - open command prompt/shell and navigate to the project folder
 - run "python manage.py livereload" and "python manage.py runserver" commands
 - start a web browser and navigate to http://127.0.0.1:8000/ (localhost)
+
 Python packages:
 - mysql connector
 - django
