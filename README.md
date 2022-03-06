@@ -19,6 +19,6 @@ The database contains 3 tables: Cities, Theaters and Actors.
 See the database diagram for more infos about foreign keys.
 
 Create: if you add a new theater/actor you can select which city/theater you want.
-       Read: can sort the table by a field ascending/descending.
+\newline Read: can sort the table by a field ascending/descending.
 Update: can chose if you want to move a theater/actor to another city/theater.
 Delete: choose the elements you want to delete.
